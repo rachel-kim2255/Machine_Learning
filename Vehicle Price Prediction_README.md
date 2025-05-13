@@ -5,7 +5,7 @@
 📅 Date: 2024.11  
 📚 Individual Project
 
-# Vehicle Price Prediction Using Regression Models 
+# 🚙🚕🚗 Vehicle Price Prediction Using Regression Models 
 
 
 ## 📂 1. Introduction  
