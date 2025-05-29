@@ -39,7 +39,7 @@ This analysis aims to extract insights from public data provided by Airbnb, whic
 We tested several regression models including Linear Regression, Decision Tree, and Random Forest to predict Airbnb listing prices in Vancouver. Among them, **Random Forest Regressor** achieved the best performance with:
 
 - **R² Score**: 0.737938
-- **MAE (Mean Absolute Error)**: 0.280318
+- **RMSE**: 0.280318
 
 This suggests the model can reasonably predict listing prices within a small margin of error for most cases.
 <br>
